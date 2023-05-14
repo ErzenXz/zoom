@@ -10,16 +10,13 @@ const Navbar = () => {
             <img src={logo} alt="" className="object-cover " />
           </div>
           <div className="text-white font-bold">
-            <p className="text-[21px] pl-2">Video Call App</p>
+            <p className="text-[21px] pl-2">ErzenVideo</p>
           </div>
         </div>
 
         {/* Right */}
         <div className="">
           <ul className="text-white font-bold flex items-center gap-4 cursor-pointer">
-            <li>About Us</li>
-            <li>Product</li>
-            <li>Blogs</li>
           </ul>
         </div>
       </div>

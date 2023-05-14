@@ -32,7 +32,7 @@ const Home = () => {
             <h1 className="text-[50px] md:text-[80px] text-white font-bold pt-12">
               ErzenVideo
             </h1>
-            <p className="text-[26px] text-white  -mt-2">Free Video Meeting!</p>
+            <p className="text-[26px] text-white  -mt-2">Free Video Meetings!</p>
           </div>
 
           {/* Enter Code */}
